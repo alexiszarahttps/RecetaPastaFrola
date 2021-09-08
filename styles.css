@@ -1,0 +1,21 @@
+.body {
+    background-color:khaki;
+}
+
+.title {
+    text-align: center;
+    color:maroon;
+}
+
+.banner {
+    text-align: center;
+}
+
+.linea {
+    color:lightgrey;
+}
+
+.parrafp {
+    font-family: sans-serif;
+    font-size: larger;
+}
